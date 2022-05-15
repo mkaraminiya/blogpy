@@ -2,3 +2,9 @@
 .idea
 
 #Virtual Env
+
+#Data Base
+db.sqlite3
+
+#Migration
+blog/migrations/
